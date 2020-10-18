@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HibernateTablePerClass&apos; to &apos;HibernateTablePerClass_(9)&apos;" description="Rename resource &apos;HibernateTablePerClass&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/HibernateTablePerClass" name="HibernateTablePerClass_(9)" stamp="1600411647747" updateReferences="true"/>
+</session>

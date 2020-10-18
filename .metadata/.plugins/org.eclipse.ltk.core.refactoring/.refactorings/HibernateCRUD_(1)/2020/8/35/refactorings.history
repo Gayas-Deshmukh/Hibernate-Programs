@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;UpdatePersonDeails_5.java&apos; to &apos;test.DeletePersonDetails_4.java&apos;&#x0D;&#x0A;- Original project: &apos;HibernateCRUD_(1)&apos;&#x0D;&#x0A;- Destination element: &apos;test.DeletePersonDetails_4.java&apos;&#x0D;&#x0A;- Original element: &apos;test.UpdatePersonDeails_5.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=HibernateOnetoOne_\(5)/src&lt;test{DeletePersonDetails_4.java" element1="/src&lt;test{UpdatePersonDeails_5.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1598472316339" units="1" version="1.0"/>
+</session>

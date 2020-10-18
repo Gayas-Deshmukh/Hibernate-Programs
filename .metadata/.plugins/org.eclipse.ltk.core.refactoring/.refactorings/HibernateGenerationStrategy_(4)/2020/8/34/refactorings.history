@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;test.AutoGeneration&apos; to &apos;BookSimulator_1&apos;&#x0D;&#x0A;- Original project: &apos;HibernateGenerationStrategy_(4)&apos;&#x0D;&#x0A;- Original element: &apos;test.AutoGeneration&apos;&#x0D;&#x0A;- Renamed element: &apos;test.BookSimulator_1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;AutoGeneration&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;test{AutoGeneration.java[AutoGeneration" matchStrategy="1" name="BookSimulator_1" qualified="false" references="true" similarDeclarations="false" stamp="1598035480579" textual="false" version="1.0"/>
+</session>

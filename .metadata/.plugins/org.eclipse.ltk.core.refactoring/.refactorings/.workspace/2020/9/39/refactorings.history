@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HibernateCollection&apos; to &apos;HibernateCollection_(11)&apos;" description="Rename resource &apos;HibernateCollection&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/HibernateCollection" name="HibernateCollection_(11)" stamp="1600762050671" updateReferences="true"/>
+</session>

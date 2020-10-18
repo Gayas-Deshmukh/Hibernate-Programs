@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=C\:/Workspace/Servelet app/eclipse/
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jdk1.8.0_241/jre/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Program Files/Java/jdk1.8.0_241/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/Workspace/Servelet app/eclipse/plugins/org.junit_4.13.0.v20200204-1500.jar
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/Gateway/.m2/repository
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
+org.eclipse.jdt.core.compiler.compliance=1.8
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.compiler.source=1.8
+org.eclipse.jdt.core.userLibrary.hibernateproject=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="C\:/Workspace/Hibernate/hibernate-release-5.0.12.Final/lib/required/antlr-2.7.7.jar"/>\r\n\t<archive path\="C\:/Workspace/Hibernate/hibernate-release-5.0.12.Final/lib/required/dom4j-1.6.1.jar"/>\r\n\t<archive path\="C\:/Workspace/Hibernate/hibernate-release-5.0.12.Final/lib/required/geronimo-jta_1.1_spec-1.1.1.jar"/>\r\n\t<archive path\="C\:/Workspace/Hibernate/hibernate-release-5.0.12.Final/lib/required/hibernate-commons-annotations-5.0.1.Final.jar"/>\r\n\t<archive path\="C\:/Workspace/Hibernate/hibernate-release-5.0.12.Final/lib/required/hibernate-core-5.0.12.Final.jar"/>\r\n\t<archive path\="C\:/Workspace/Hibernate/hibernate-release-5.0.12.Final/lib/required/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>\r\n\t<archive path\="C\:/Workspace/Hibernate/hibernate-release-5.0.12.Final/lib/required/jandex-2.0.0.Final.jar"/>\r\n\t<archive path\="C\:/Workspace/Hibernate/hibernate-release-5.0.12.Final/lib/required/javassist-3.18.1-GA.jar"/>\r\n\t<archive path\="C\:/Workspace/Hibernate/hibernate-release-5.0.12.Final/lib/required/jboss-logging-3.3.0.Final.jar"/>\r\n\t<archive path\="C\:/Workspace/J2EE Software/mysql_driver.jar"/>\r\n</userlibrary>\r\n
